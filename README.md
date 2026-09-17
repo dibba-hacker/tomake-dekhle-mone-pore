@@ -1,7 +1,7 @@
 # NACA Haker
 
 #### Cyber Treasure Hunt 2.0 🧭 
-Click the link to save checkpoint: \
+Click the link to save checkpoint (stage 2): \
 [https://treasure-hunt.tamzidshikto.me/checkpoint-38d4b8d969d91f37](https://treasure-hunt.tamzidshikto.me/checkpoint-38d4b8d969d91f37)
 
 

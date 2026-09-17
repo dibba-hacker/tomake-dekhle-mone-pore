@@ -2,7 +2,7 @@
 
 #### Cyber Treasure Hunt 2.0 🧭 
 Click the link to save checkpoint: \
-[https://treasure-hunt.tamzidshikto.me/checkpoint-38d4b8d969d91f37]([https://treasure-hunt.tamzidshikto.me/checkpoint-38d4b8d969d91f37])
+[https://treasure-hunt.tamzidshikto.me/checkpoint-38d4b8d969d91f37](https://treasure-hunt.tamzidshikto.me/checkpoint-38d4b8d969d91f37)
 
 
 
